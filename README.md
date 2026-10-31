@@ -1,8 +1,10 @@
 # Hive House
 
-**Created by:** Kent
+**Created by:** Luna
 
 ![Hive House](hive-house.png)
+
+This is a bee house for solitary bees, like mason bees and leafcutter bees. Unlike honeybees, these bees don't live in a big hive. Each one finds a small tunnel to lay its eggs in, and every hole in this honeycomb is a tunnel they can use. You screw it onto a fence, post or wall near your flowers. Solitary bees are amazing pollinators, so giving them a safe place to nest helps your garden grow more fruit, flowers and seeds!
 
 ## Printed with PHA 🌱
 
